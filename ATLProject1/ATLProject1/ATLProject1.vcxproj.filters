@@ -31,6 +31,9 @@
     <ClCompile Include="ATLProject1_i.c">
       <Filter>生成的文件</Filter>
     </ClCompile>
+    <ClCompile Include="brange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
